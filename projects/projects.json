@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Algo Visualizer",
+    "desc": "Algo Visualizer is a tool designed to visualize various algorithms, focusing on sorting and searching algorithms.",
+    "image": "algov",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/saurav806/Visualizer"
+    }
+  },
+  {
+    "name": "Restaurant MS",
+    "desc": "Full-Stack Restaurant Management System using HTML, CSS, JavaScript and Php. Reliable for both Manager and users.",
+    "image": "rms",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/saurav806/Restaurant-Management-System"
+    }
+  },
+  {
+    "name": "Tic - Tac - Toe",
+    "desc": "Designed a two-player Tic-Tac-Toe game that offers a simple yet satisfying experience for players designed using react",
+    "image": "tictactoe",
+    "category": "react",
+    "links": {
+      "code": "https://github.com/saurav806/Tic-Tac-Toe"
+    }
+  },
+  
+  {
+    "name": "Volunteer Portal App",
+    "desc": "The Volunteer Portal Mobile App is a comprehensive solution designed to efficiently manage volunteers' participation in various events. Its primary purpose is to provide a user-friendly platform for volunteers to easily sign up, log in, and manage their involvement according to their convenience. Using android studio with firebase database",
+    "image": "vps",
+    "category": "react",
+    "links": {
+      "code": "https://github.com/saurav806/Volunteer-Portal-App"
+    }
+  }
+]
